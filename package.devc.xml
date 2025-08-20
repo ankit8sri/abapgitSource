@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DEVC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DEVC>
+    <DEVCLASS>ZSALES_ORDER_ALV_TEST</DEVCLASS>
+    <CTEXT>Sales Order ALV Learning Package</CTEXT>
+    <COMPONENT>LOCAL</COMPONENT>
+    <PACKAGE_KIND>DEVELOPMENT</PACKAGE_KIND>
+    <DLVUNIT>LOCAL</DLVUNIT>
+    <PDEVCLASS>$TMP</PDEVCLASS>
+    <PARENTCL>$TMP</PARENTCL>
+    <CREATED_BY>DEVELOPER</CREATED_BY>
+    <CREATED_ON>20241220</CREATED_ON>
+    <CHANGED_BY>DEVELOPER</CHANGED_BY>
+    <CHANGED_ON>20241220</CHANGED_ON>
+   </DEVC>
+  </asx:values>
+ </asx:abap>
